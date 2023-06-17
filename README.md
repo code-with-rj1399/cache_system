@@ -1,6 +1,4 @@
 # LRU Cache (Low Level Design) 
-Design of cache
-
 ## Problem Statement
 We have to do low level design for a Cache system, which supports following operations:
 * **Put**: Allows user to put a key, value to the cache.
