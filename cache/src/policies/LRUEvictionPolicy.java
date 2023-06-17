@@ -5,12 +5,12 @@ import algo.DLNode;
 
 import java.util.HashMap;
 
-public class LRCEvictionPolicy<Key> implements IEvictionPolicy<Key> {
+public class LRUEvictionPolicy<Key> implements IEvictionPolicy<Key> {
 
     private final DLList<Key> dlList;
     private final HashMap<Key, DLNode<Key>> mapper;
 
-    public LRCEvictionPolicy(){
+    public LRUEvictionPolicy(){
         dlList = new DLList<>();
         mapper = new HashMap<>();
     }
