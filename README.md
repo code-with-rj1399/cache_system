@@ -1,4 +1,4 @@
-# cache_system
+# LRU Cache (Low Level Design) 
 Design of cache
 
 ## Problem Statement
