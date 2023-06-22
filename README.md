@@ -8,3 +8,8 @@ We have to do low level design for a Cache system, which supports following oper
 ### Expectations
 * Code should be functionally correct, modular and readable. 
 * Code should be extensible and scalable, adhering to SOLID principles. 
+
+### Class Diagram
+![](https://github.com/rajeshdappu/cache_system/blob/dev/cache/src/LLD%20For%20Cache.drawio.png)
+
+reference : https://app.diagrams.net/#Hrajeshdappu%2Fcache_system%2Fdev%2Fcache%2Fsrc%2FLLD%20For%20Cache.drawio.png

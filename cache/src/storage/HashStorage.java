@@ -14,7 +14,7 @@ public class HashStorage<Key,Value> implements IStorage<Key,Value> {
         map = new HashMap<>();
     }
     public HashStorage(int capacity){
-        super();
+        this();
         this.capacity = capacity;
     }
     @Override

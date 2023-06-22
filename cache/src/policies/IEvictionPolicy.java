@@ -1,7 +1,6 @@
 package policies;
 
 public interface IEvictionPolicy<Key> {
-    public void keyAccessed(Key element);
-
+    void keyAccessed(Key element);
     Key evictKey();
 }
