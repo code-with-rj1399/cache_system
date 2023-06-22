@@ -11,3 +11,6 @@ We have to do low level design for a Cache system, which supports following oper
 
 ### Class Diagram
 ![](https://github.com/rajeshdappu/cache_system/blob/dev/cache/src/LLD%20For%20Cache.drawio.png)
+
+### UML conventions
+![](https://github.com/rajeshdappu/cache_system/blob/main/cache/src/UML_conventions.png)
